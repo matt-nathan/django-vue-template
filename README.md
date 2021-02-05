@@ -12,7 +12,7 @@ Intended to be used as a template for future projects
 ### Setup Template
 
 ```
-$ git clone https://github.com/gtalarico/django-vue-template
+$ git clone https://github.com/matt-nathan/django-vue-template
 $ cd django-vue-template
 ```
 
